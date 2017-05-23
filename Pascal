@@ -1,0 +1,7 @@
+program newprogram;
+uses crt;
+var 
+begin
+
+
+end.
